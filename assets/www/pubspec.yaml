@@ -1,0 +1,8 @@
+name: MnRadio
+version: 1.0.0
+author: ubs121
+description: Mongolian Radio
+dependencies:
+  browser: any
+
+#  unittest: any
